@@ -342,10 +342,8 @@ header {
 }
 
 .info-box {
-    transition: transform .18s ease;
-    transform: translateX(0);
     width: 30%;
-    padding: 15px;
+    padding: 10px;
     background: rgba(255, 255, 255, 0.1);
     border: 2px solid rgba(255, 255, 255, 0.2);
     border-radius: 20px;
